@@ -28,7 +28,7 @@
         "category": 1,
         "address": "Rua Figueiredo de Magalhães, 875 - Térreo - Copacabana, Rio de Janeiro - RJ, 22031-011",
         "description": "Localizado no bairro de Copacabana, Zona Sul do Rio de Janeiro, o Hospital Copa D’Or é reconhecido pelo elevado padrão de qualidade e identificado como um dos mais importantes centros de medicina do país. Serviços excelentes, competência técnica, investimentos constantes em tecnologia e tratamentos de última geração, realizados com respeito e calor humano são as suas principais marcas.",
-        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.592850890387!2d-43.1926576853916!3d-22.965217084982125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd530d52020df%3A0x8663add9621964af!2sCentro%20M%C3%A9dico%20Hospital%20Copa%20D&#39;Or!5e0!3m2!1sen!2sbr!4v1600657414558!5m2!1sen!2sbr"
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.592850890387!2d-43.1926576853916!3d-22.965217084982125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd530d52020df%3A0x8663add9621964af!2sCentro%20M%C3%A9dico%20Hospital%20Copa%20D&#39;Or!5e0!3m2!1spt-BR!2sbr!4v1600678952552!5m2!1spt-BR!2sbr"
     },
     {
         "id": 5,
@@ -52,5 +52,42 @@
         "address": "Rio de Janeiro - RJ",
         "description": "A praia Vermelha, de pequenas dimensões, é muito apreciada pela paisagem envolvente, entre o Morro da Urca e o Morro da Babilônia. A praia, apesar de não possuir ondas grandes, é profunda. Em suas areias, podem ser vistos cristais de granada, mas não é esta a razão do seu nome; ela é assim chamada porque a areia fica avermelhada quando o Sol se põe, devido ao reflexo da luz do Sol nos cristais vermelhos e rosas.",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.8633308045682!2d-43.16691158539173!3d-22.955259884987182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99801a76741d47%3A0x9fa9df70526927c8!2sRed%20Beach!5e0!3m2!1sen!2sbr!4v1600658174635!5m2!1sen!2sbr"
+    },
+    {
+        "id": 8,
+        "name": "Cristo Redentor",
+        "category": 4,
+        "address": "Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ",
+        "description": "Estátua de Jesus Cristo de 38 m de altura no topo da montanha, com paisagens da cidade e acessível por trem.",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.9541404674324!2d-43.21267588503358!3d-22.951915984988947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fd5984aa13f%3A0x9dc984d7019502de!2sCristo%20Redentor!5e0!3m2!1spt-BR!2sbr!4v1600678791797!5m2!1spt-BR!2sbr"
+    },
+    {
+        "id": 9,
+        "name": "Ibis Copacabana Posto 5",
+        "category": 48,
+        "address": "R. Xavier da Silveira, 82 - Copacabana, Rio de Janeiro - RJ, 22061-010",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.2897399171807!2d-43.1940527853913!3d-22.976370684976477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd540f59a6679%3A0x5cd58643ab82450e!2sIbis%20Copacabana%20Posto%205!5e0!3m2!1spt-BR!2sbr!4v1600679061488!5m2!1spt-BR!2sbr"
+    },
+    {
+        "id": 10,
+        "name": "Banheiro Base 31",
+        "category": 128,
+        "address": "Av. Atlântica, 4160 - Copacabana, Rio de Janeiro - RJ, 22070-002",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14692.201760881417!2d-43.19845703022465!3d-22.985172600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd53b8b800633%3A0x2807a9233f2064e2!2sBanheiro%20Base%2031!5e0!3m2!1spt-BR!2sbr!4v1600679302948!5m2!1spt-BR!2sbr"
+    },
+    {
+        "id": 11,
+        "name": "Belmond Copacabana Palace",
+        "category": 48,
+        "address": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.5359847111167!2d-43.18152098539143!3d-22.967309984981075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd5540e4f928d%3A0xef2e5118ccad88ae!2sBelmond%20Copacabana%20Palace!5e0!3m2!1spt-BR!2sbr!4v1600679434315!5m2!1spt-BR!2sbr"
+    },
+    {
+        "id": 12,
+        "name": "Praia de Ipanema",
+        "category": 8,
+        "address": "Ipanema, Rio de Janeiro - RJ",
+        "description": "Praia com faixa de areia extensa frequentada para banhos de sol e para a prática de futebol e vôlei.",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14691.999170525385!2d-43.21487917559801!3d-22.987035109535125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd50124462bc9%3A0x297084a82551b8e4!2sPraia%20de%20Ipanema!5e0!3m2!1spt-BR!2sbr!4v1600679526576!5m2!1spt-BR!2sbr"
     }
 ]
