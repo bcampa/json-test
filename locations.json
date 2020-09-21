@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Kombi Coffee",
+        "type": 16,
+        "address": "R. do Rosário, 128 - Centro",
+        "city": "Rio de Janeiro - RJ",
+        "cep": "20041-002",
+        "description": "Hoje em dia, café bom não é só aquele feito no coador de pano que nossas avós faziam, um novo mundo se abre para nós em matéria de tipo de grãos, procedência, tipos de torras e jeitos de preparar a bebida, que é tão popular na mesa dos brasileiros.",
+        "iframeURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7350.548999117767!2d-43.178936!3d-22.903244!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e7db1b2d3%3A0x4f7d475eaa18788f!2sR.%20do%20Ros%C3%A1rio%2C%20128%20-%20Centro%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2020041-002!5e0!3m2!1sen!2sbr!4v1600631879654!5m2!1sen!2sbr"
+    }
+]
