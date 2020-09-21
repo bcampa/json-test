@@ -3,9 +3,7 @@
         "id": 1,
         "name": "Kombi Coffee",
         "category": 16,
-        "address": "R. do Rosário, 128 - Centro",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "20041-002",
+        "address": "R. do Rosário, 128 - Centro, Rio de Janeiro - RJ, 20041-002",
         "description": "Hoje em dia, café bom não é só aquele feito no coador de pano que nossas avós faziam, um novo mundo se abre para nós em matéria de tipo de grãos, procedência, tipos de torras e jeitos de preparar a bebida, que é tão popular na mesa dos brasileiros.",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7350.548999117767!2d-43.178936!3d-22.903244!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997f5e7db1b2d3%3A0x4f7d475eaa18788f!2sR.%20do%20Ros%C3%A1rio%2C%20128%20-%20Centro%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2020041-002!5e0!3m2!1sen!2sbr!4v1600631879654!5m2!1sen!2sbr"
     },
@@ -13,9 +11,7 @@
         "id": 2,
         "name": "Hospital Samaritano",
         "category": 1,
-        "address": "R. Bambina, 98 - Botafogo",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22251-050",
+        "address": "R. Bambina, 98 - Botafogo, Rio de Janeiro - RJ, 22251-050",
         "description": "Nenhuma descrição disponível",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d918.5247621181788!2d-43.18666769771337!3d-22.946579057697484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fedd8e4a8e5%3A0x6c8f465d271e4ca8!2sHospital%20Samaritano!5e0!3m2!1sen!2sbr!4v1600657139521!5m2!1sen!2sbr"
     },
@@ -23,27 +19,21 @@
         "id": 3,
         "name": "Hospital Federal da Lagoa",
         "category": 1,
-        "address": "R. Jardim Botânico, 501 - Jardim Botânico",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22470-050",
+        "address": "R. Jardim Botânico, 501 - Jardim Botânico, Rio de Janeiro - RJ, 22470-050",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.6344655998955!2d-43.21774458539163!3d-22.963685384982874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd59d3e482dd5%3A0x13a4ab58d4363cbd!2sHospital%20Federal%20da%20Lagoa!5e0!3m2!1sen!2sbr!4v1600657341633!5m2!1sen!2sbr"
     },
     {
         "id": 4,
         "name": "Centro Médico Hospital Copa D'Or",
         "category": 1,
-        "address": "Rua Figueiredo de Magalhães, 875 - Térreo - Copacabana",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22031-011",
+        "address": "Rua Figueiredo de Magalhães, 875 - Térreo - Copacabana, Rio de Janeiro - RJ, 22031-011",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.592850890387!2d-43.1926576853916!3d-22.965217084982125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd530d52020df%3A0x8663add9621964af!2sCentro%20M%C3%A9dico%20Hospital%20Copa%20D&#39;Or!5e0!3m2!1sen!2sbr!4v1600657414558!5m2!1sen!2sbr"
     },
     {
         "id": 4,
         "name": "Centro Médico Hospital Copa D'Or",
         "category": 1,
-        "address": "Rua Figueiredo de Magalhães, 875 - Térreo - Copacabana",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22031-011",
+        "address": "Rua Figueiredo de Magalhães, 875 - Térreo - Copacabana, Rio de Janeiro - RJ, 22031-011",
         "description": "Localizado no bairro de Copacabana, Zona Sul do Rio de Janeiro, o Hospital Copa D’Or é reconhecido pelo elevado padrão de qualidade e identificado como um dos mais importantes centros de medicina do país. Serviços excelentes, competência técnica, investimentos constantes em tecnologia e tratamentos de última geração, realizados com respeito e calor humano são as suas principais marcas.",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.592850890387!2d-43.1926576853916!3d-22.965217084982125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd530d52020df%3A0x8663add9621964af!2sCentro%20M%C3%A9dico%20Hospital%20Copa%20D&#39;Or!5e0!3m2!1sen!2sbr!4v1600657414558!5m2!1sen!2sbr"
     },
@@ -51,9 +41,7 @@
         "id": 5,
         "name": "Cumpadres Humaitá",
         "category": 16,
-        "address": "R. Visconde de Caravelas, 123 - Humaitá",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22271-040",
+        "address": "R. Visconde de Caravelas, 123 - Humaitá, Rio de Janeiro - RJ, 22271-040",
         "description": "CUMPADRES E CUMADRES bem-vindos à nossa casa. Uma saudação do Cumpadres Botequim!",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.810727768516!2d-43.1981455853917!3d-22.957196684986208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fdf87aaf6e9%3A0xe34ac20143605b26!2sCumpadres%20Humait%C3%A1!5e0!3m2!1sen!2sbr!4v1600657680062!5m2!1sen!2sbr"
     },
@@ -61,9 +49,7 @@
         "id": 6,
         "name": "10ª Delegacia de Polícia - Botafogo",
         "category": 2,
-        "address": "R. Bambina, 140 - Botafogo",
-        "city": "Rio de Janeiro - RJ",
-        "cep": "22251-050",
+        "address": "R. Bambina, 140 - Botafogo, Rio de Janeiro - RJ, 22251-050",
         "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.065042771788!2d-43.1884633853919!3d-22.947831584990936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fee43b1af8f%3A0x6649aba379b658c5!2s10th%20DP%20-%20Botafogo!5e0!3m2!1sen!2sbr!4v1600658047595!5m2!1sen!2sbr"
     },
     {
